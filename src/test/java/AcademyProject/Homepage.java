@@ -32,7 +32,7 @@ public class Homepage extends BaseClassWebDriver
 			Object[][] data=new Object[2][2];
 			
 			data[0][0]="devooty@gmail.com";
-			data[0][1]="devooty12";
+			data[0][1]="devooty123";
 			
 		/*	data[1][0]="devooty@gmail.com";
 			data[1][1]="devooty13";
